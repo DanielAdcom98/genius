@@ -18,6 +18,10 @@ No requiere instalación ni proceso de compilación.
 - `informe-creativo.html`: informe de rendimiento creativo en Meta Ads, para el equipo creativo.
   Las miniaturas de los anuncios van embebidas como data URI, así que la página funciona sin
   conexión y sin carpeta de assets.
+- `top-piezas-ago-sep-2026.html`: top 3 de piezas por vertical (registro y apuesta, deportivas y casino)
+  en agosto, en septiembre y en los dos meses, con el análisis de comunicación de cada ganadora y la
+  propuesta de octubre. Cada pieza se muestra dentro de un mockup de celular. Lo genera
+  `scripts/clients/geniusbet/creative_report.py` en el repo Ads-CLI.
 - `styles.css`: sistema visual compartido, en Poppins, negro `#050505` / papel `#f4f4f1` y amarillo
   `#ffd400`, heredado de [Raza.do](https://github.com/DanielAdcom98/raza).
 
